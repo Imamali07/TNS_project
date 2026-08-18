@@ -1,0 +1,22 @@
+Deep Learning Practice
+
+This folder contains my practice work while learning Deep Learning.
+
+Topics Practiced
+Neural Networks
+Artificial Neural Networks (ANN)
+Forward Propagation
+Backpropagation
+Activation Functions
+ReLU
+Sigmoid
+Softmax
+Loss Functions
+Optimizers
+Gradient Descent
+Overfitting and Underfitting
+Dropout
+CNN
+RNN
+TensorFlow
+Keras
